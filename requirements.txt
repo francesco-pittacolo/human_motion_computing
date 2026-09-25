@@ -1,8 +1,8 @@
-torch
-numpy
-pandas
-scikit-learn
-aeon
+torch==2.0.1
+numpy==1.24.4
+pandas==2.0.3
+scikit-learn==1.2.2
+aeon==0.4.0
 matplotlib
 jupyter
 ipykernel
