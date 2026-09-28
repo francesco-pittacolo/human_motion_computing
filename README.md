@@ -66,6 +66,10 @@ The project was developed and tested using Python 3.11.
 
 XROCKET was originally implemented for Python 3.9, while this project was successfully executed using Python 3.11. More recent Python versions may not be compatible with the XROCKET implementation used here.
 
+The XROCKET implementation used in this project is included in the `xrocket/` directory and is based on the original repository:
+
+https://github.com/dida-do/xrocket
+
 Create a Python 3.11 virtual environment:
 
 ```bash
