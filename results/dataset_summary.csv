@@ -1,0 +1,2 @@
+n_recordings,n_participants,n_classes,n_channels,min_length,max_length,mean_length,median_length,missing_values
+240,20,6,18,18,56,33.675,33.0,0

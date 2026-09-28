@@ -1,0 +1,7 @@
+class,movement,count,mean_length,std_length,min_length,median_length,max_length
+0,Absence of movement,40,33.65,7.86928465780982,18,34.0,52
+1,Upward Block,40,35.9,7.8798672382412445,24,36.0,54
+2,Hammering Inward Block,40,30.15,6.91171432220653,20,29.0,51
+3,Extended Outward Block,40,31.2,7.907153528487791,18,30.0,48
+4,Outward Downward Block,40,36.8,6.880667826860249,25,36.0,56
+5,Rear Elbow Block,40,34.35,7.674633541739957,22,34.0,50

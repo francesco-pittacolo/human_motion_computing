@@ -1,0 +1,21 @@
+rank,pattern,dilation,channel,mean_importance,std_importance,highest_mean_class,highest_mean_movement,lowest_mean_class,lowest_mean_movement,activation_range,normalized_separation
+1,"[2.0, 2.0, -1.0, 2.0, -1.0, -1.0, -1.0, -1.0, -1.0]",4,game_rot_vec_y,0.006353487203240968,0.0015594184992252927,4,Outward Downward Block,0,Absence of movement,1.1406282,2.2037492
+2,"[2.0, 2.0, -1.0, -1.0, 2.0, -1.0, -1.0, -1.0, -1.0]",4,game_rot_vec_z,0.006087877932531237,0.0014161794168250218,4,Outward Downward Block,0,Absence of movement,1.113554,2.179755
+3,"[-1.0, -1.0, -1.0, 2.0, 2.0, -1.0, 2.0, -1.0, -1.0]",4,gravity_z,0.005635654177978214,0.0012132770288622175,3,Extended Outward Block,0,Absence of movement,0.33677542,0.8655074
+4,"[-1.0, -1.0, 2.0, -1.0, 2.0, 2.0, -1.0, -1.0, -1.0]",4,game_rot_vec_x,0.005117156523983412,0.0014921018402252368,3,Extended Outward Block,0,Absence of movement,0.4183712,1.0714198
+5,"[-1.0, -1.0, 2.0, -1.0, 2.0, 2.0, -1.0, -1.0, -1.0]",3,game_rot_vec_x,0.005009878594341795,0.0014159917912876987,3,Extended Outward Block,0,Absence of movement,0.33609712,0.90840393
+6,"[2.0, -1.0, -1.0, 2.0, -1.0, 2.0, -1.0, -1.0, -1.0]",4,accelerometer_z,0.004814402071151717,0.0015199691019618128,1,Upward Block,0,Absence of movement,0.7163073,1.7303245
+7,"[-1.0, -1.0, -1.0, -1.0, 2.0, -1.0, 2.0, -1.0, 2.0]",4,accelerometer_x,0.004788637149855532,0.0009937708148338837,2,Hammering Inward Block,0,Absence of movement,0.78810334,1.7972089
+8,"[-1.0, 2.0, 2.0, -1.0, 2.0, -1.0, -1.0, -1.0, -1.0]",4,magn_field_z,0.004719561112426348,0.0015045211659423356,1,Upward Block,0,Absence of movement,0.7109137,1.6173851
+9,"[-1.0, -1.0, -1.0, 2.0, -1.0, -1.0, 2.0, 2.0, -1.0]",4,lin_accel_z,0.004681482780487134,0.0013336167683485414,2,Hammering Inward Block,0,Absence of movement,1.0549498,2.1769888
+10,"[-1.0, -1.0, 2.0, -1.0, 2.0, -1.0, 2.0, -1.0, -1.0]",4,game_rot_vec_y,0.00462495948822373,0.0016801470315057712,3,Extended Outward Block,5,Rear Elbow Block,0.3306406,0.8840062
+11,"[2.0, -1.0, 2.0, -1.0, -1.0, 2.0, -1.0, -1.0, -1.0]",4,gravity_x,0.00461532146001127,0.0019942707599695277,4,Outward Downward Block,0,Absence of movement,1.1725519,2.2573133
+12,"[-1.0, -1.0, -1.0, -1.0, 2.0, -1.0, -1.0, 2.0, 2.0]",4,game_rot_vec_y,0.004473952041276329,0.002892242646096726,5,Rear Elbow Block,4,Outward Downward Block,0.6627495,1.509349
+13,"[-1.0, -1.0, 2.0, -1.0, 2.0, -1.0, 2.0, -1.0, -1.0]",3,game_rot_vec_y,0.0042954722178107484,0.0022710607729466356,3,Extended Outward Block,5,Rear Elbow Block,0.21777314,0.58660215
+14,"[2.0, 2.0, -1.0, -1.0, -1.0, 2.0, -1.0, -1.0, -1.0]",4,magn_field_x,0.00424308562713935,0.0024645752017154153,4,Outward Downward Block,0,Absence of movement,1.234653,2.3994362
+15,"[2.0, 2.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0, 2.0]",4,accelerometer_x,0.004241981131351246,0.001260671183373713,5,Rear Elbow Block,0,Absence of movement,0.7356281,1.6299558
+16,"[-1.0, -1.0, -1.0, -1.0, -1.0, 2.0, -1.0, 2.0, 2.0]",4,magn_field_y,0.0042392429175982585,0.0014366468882979768,5,Rear Elbow Block,0,Absence of movement,0.6812673,1.4552859
+17,"[2.0, 2.0, 2.0, -1.0, -1.0, -1.0, -1.0, -1.0, -1.0]",4,game_rot_vec_x,0.004096040510297782,0.0013944408574131724,4,Outward Downward Block,0,Absence of movement,1.1307313,2.2296183
+18,"[-1.0, -1.0, -1.0, 2.0, -1.0, -1.0, 2.0, -1.0, 2.0]",4,game_rot_vec_x,0.0039006957702234445,0.0009632863816133589,2,Hammering Inward Block,0,Absence of movement,0.97471523,2.0962937
+19,"[-1.0, -1.0, -1.0, -1.0, 2.0, -1.0, 2.0, 2.0, -1.0]",4,magn_field_z,0.0039005220231691493,0.001648212181982987,2,Hammering Inward Block,0,Absence of movement,0.9478496,2.0494
+20,"[-1.0, -1.0, -1.0, -1.0, 2.0, -1.0, -1.0, 2.0, 2.0]",3,game_rot_vec_y,0.003868560399283574,0.002443051723830223,5,Rear Elbow Block,0,Absence of movement,0.9066825,1.8976202

@@ -19,7 +19,3 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
-
-# Output locali
-figures/
-outputs/
