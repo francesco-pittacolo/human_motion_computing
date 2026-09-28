@@ -49,9 +49,16 @@ human_motion/
 │   └── utils.py
 ├── results/
 ├── figures/
+├── HMC_report.pdf
 ├── requirements.txt
 └── README.md
 ```
+
+## Report
+
+The technical report is available here:
+
+[HMC_report.pdf](HMC_report.pdf)
 
 ## Setup
 
